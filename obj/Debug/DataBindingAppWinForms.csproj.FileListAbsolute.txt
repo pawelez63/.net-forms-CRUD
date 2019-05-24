@@ -1,0 +1,20 @@
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\bin\Debug\DataBindingAppWinForms.exe.config
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\bin\Debug\DataBindingAppWinForms.exe
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\bin\Debug\DataBindingAppWinForms.pdb
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.MainForm.resources
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.exe
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.pdb
+c:\users\michal\documents\visual studio 2015\Projects\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.AddEditPerson.resources
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\bin\Debug\DataBindingAppWinForms.exe.config
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.exe
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.pdb
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\bin\Debug\DataBindingAppWinForms.exe
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\bin\Debug\DataBindingAppWinForms.pdb
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.csprojResolveAssemblyReference.cache
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.AddEditPerson.resources
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.MainForm.resources
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.Properties.Resources.resources
+C:\Users\pawel\Downloads\DataBindingAppWinForms\DataBindingAppWinForms\DataBindingAppWinForms\obj\Debug\DataBindingAppWinForms.csproj.GenerateResource.Cache
